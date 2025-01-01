@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+torch
+facenet-pytorch
+pywin32
+scikit-learn
+sqlite3
+

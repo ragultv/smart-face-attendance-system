@@ -35,7 +35,7 @@ smart face attendance system/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ragultv/smart-face-attendance-system.git>
    cd smart-face-attendance-system
    ```
 

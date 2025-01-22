@@ -14,7 +14,6 @@ def speak(str1):
     speak.Speak(str1)
 
 
-# Initialize FaceNet model for face embedding
 facenet_model = InceptionResnetV1(pretrained='casia-webface').eval()
 
 
